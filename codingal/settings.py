@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'r6xfx928i*#+2bid(-!4z3g@!mm^r%=xybu7xmhbiu&-6y56y8'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["shielded-reef-84687.herokuapp.com"]
 
 
 # Application definition
