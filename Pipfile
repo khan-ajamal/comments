@@ -10,6 +10,7 @@ markdown = "*"
 django-filter = "*"
 gunicorn = "*"
 whitenoise = "*"
+django-heroku = "*"
 
 [dev-packages]
 ipython = "*"
@@ -17,4 +18,4 @@ flake8 = "*"
 autopep8 = "*"
 
 [requires]
-python_version = "3.9"
+python_version = "3.7"
