@@ -1,0 +1,1 @@
+web: gunicorn codingal.wsgi --log-file -
