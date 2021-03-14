@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/Users/ajamalkhan/.local/share/virtualenvs/comments-thread-HKMF4mTC/bin/python"
+}
