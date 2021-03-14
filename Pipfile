@@ -9,6 +9,7 @@ djangorestframework = "*"
 markdown = "*"
 django-filter = "*"
 gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 ipython = "*"
